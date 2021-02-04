@@ -1,0 +1,56 @@
+
+body{
+  background: #fff0f0;
+  color: #835858;
+  font-size: 14px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Helvetica;
+  color: #835858;
+  font-weight: lighter;
+  font-size: 24px;
+}
+h2 {
+  font-family: Helvetica;
+  color: #835858;
+  font-weight: lighter;
+  font-size: 20px;
+}
+a {
+  color: #835858;
+}
+a:hover {
+  text-decoration: none;
+  color: #896A67;
+}
+
+.icon {
+  font-size: 52px;
+  display: inline-block;
+  margin: 5px 19px;
+}
+
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+div {
+  width: 583px;
+  margin: 29px auto;
+  text-align: center;
+  padding: 35px 46px;
+  border-radius: 8px;
+  box-shadow: rgb(50 50 93 / 25%) 0px 2px 5px -1px, rgb(0 0 0 / 30%) 0px 1px 3px -1px;
+}
+
+.list-center-elements {
+  padding: 0;
+}
+
+.list-kill-decoration {
+  list-style: none;
+}
